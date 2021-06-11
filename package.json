@@ -1,0 +1,27 @@
+{
+  "name": "ironberry",
+  "version": "0.0.2",
+  "description": "A javascript library to work with numbers, mostly to aid in the development of calculators and similar methods.",
+  "main": "ironberry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ironberry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ray6464/ironberry.git"
+  },
+  "keywords": [
+    "calculator",
+    "numbers"
+  ],
+  "author": "Ray Voice, Anna Voice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ray6464/ironberry/issues"
+  },
+  "homepage": "https://github.com/Ray6464/ironberry#readme",
+  "dependencies": {
+    "hardlog": "^2.0.0"
+  }
+}
