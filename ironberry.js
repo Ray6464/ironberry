@@ -1,14 +1,7 @@
-var hardlog = require('hardlog');
-
 const libraryInfo = {
-  version: () => "0.0.2",
+  version: () => "0.0.3",
   authors: () => "Ray Voice and Anna Voice",
-  logFile: () => "ironberry-hardlogs.txt",
 }
-
-hardlog.init(libraryInfo.authors(),
-             libraryInfo.version(),
-             libraryInfo.logFile());
 
 // Add more functions to this
 module.exports = {

@@ -1,6 +1,6 @@
 {
   "name": "ironberry",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A javascript library to work with numbers, mostly to aid in the development of calculators and similar methods.",
   "main": "ironberry.js",
   "scripts": {
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/Ray6464/ironberry/issues"
   },
-  "homepage": "https://github.com/Ray6464/ironberry#readme",
-  "dependencies": {
-    "hardlog": "^2.0.0"
-  }
+  "homepage": "https://github.com/Ray6464/ironberry#readme"
 }
