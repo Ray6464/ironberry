@@ -1,11 +1,11 @@
 {
   "name": "ironberry",
-  "version": "0.0.3",
-  "description": "A javascript library to work with numbers, mostly to aid in the development of calculators and similar methods.",
-  "main": "ironberry.js",
+  "version": "2.0.1",
+  "description": "A javascript library to work with numbers, mostly to aid in the development of calculators and similar methods. Has a lot of methods to work with Modular Arithmetic.",
+  "main": "ironberry.min.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ironberry.js"
+    "test": "node noNode/mainTest.js",
+    "start": "node ironberry.min.js"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,8 @@
   },
   "keywords": [
     "calculator",
-    "numbers"
+    "numbers",
+    "Modular Arithmetic"
   ],
   "author": "Ray Voice, Anna Voice",
   "license": "MIT",
